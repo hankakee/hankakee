@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hankakee
 - 👀 I’m interested in Coding front-end
-- 🌱 I’m currently learning ReactJS/Golang
+- 🌱 I’m currently learning ReactJS/Golang/Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
