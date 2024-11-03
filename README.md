@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding front-end
 - 🌱 I’m currently learning ReactJS/Golang/Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at juniorhankakee@gmail.com
 
 <!---
 hankakee/hankakee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
